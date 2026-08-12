@@ -245,18 +245,6 @@ It can help stakeholders:
 
 ---
 
-# 🛠️ Dashboard Components
-
-The project can be implemented using BI and data visualization tools such as:
-
-* Power BI
-* Tableau
-* Excel
-* SQL
-* Python
-
----
-
 # 🚀 Project Goal
 
 The primary goal of this project is to transform raw Uber booking data into **actionable business insights** through interactive visualizations, KPIs, trends, and customer/vehicle-level analysis.
