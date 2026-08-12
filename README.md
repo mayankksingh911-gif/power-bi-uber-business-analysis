@@ -249,7 +249,6 @@ It can help stakeholders:
 
 The primary goal of this project is to transform raw Uber booking data into **actionable business insights** through interactive visualizations, KPIs, trends, and customer/vehicle-level analysis.
 
-
 ---
 
 ## ⭐ Project Highlights
